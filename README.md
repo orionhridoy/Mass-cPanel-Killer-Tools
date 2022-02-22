@@ -1,5 +1,11 @@
 # PHP Mass-cPanel-Killer-Tools
 
+Usage: **php killer.php**
+
+The results will save in [**yourtext.txt**]
+
+New Update: **Extremely Accurate PHP cPanel Tools**
+
 Tools List:
 
 1. Mass cPanel Checker
