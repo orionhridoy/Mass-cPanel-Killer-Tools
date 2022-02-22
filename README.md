@@ -1,4 +1,4 @@
-# PHP Mass-cPanel-Killer-Tools
+# PHP Mass cPanel Killer Tools
 
 Usage: **php killer.php**
 
